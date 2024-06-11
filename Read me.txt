@@ -1,0 +1,10 @@
+Read me
+
+Game gồm 5 loại tháp pháo. khi mua mặc định sẽ đặt ra tháp sniper. Có thể thay đổi sang các loại khác theo thứ tự tuần hoàn, nhưng phải tốn
+Tháp pháo thứ nhất có tầm bắn rộng, sát thương lớn nhưng không có gì đặc biệt.
+Tháp pháo thứ 2 sát thương sẽ tăng liên tục khi cùng 1 kẻ địch bị tấn công.
+Tháp pháo thứ 3 làm chập
+Tháp pháo thứ 4 gây sát thương diện rộng.
+tháp pháo thứ 5 gây sát thương cho mọi kẻ địch trong tầm bắn, nhiều hơn cho kẻ địch bị nhắm trực tiếp.
+
+càng mua nhiều tháp pháo giá mua càng tăng
